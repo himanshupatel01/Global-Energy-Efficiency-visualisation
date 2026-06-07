@@ -10,7 +10,7 @@ The study calculates a custom **Energy Efficiency Index (EEI)** and deploys mult
 ## 🛠️ Technical Toolkit & Skills
 * **Languages & Core Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 * **Geospatial Analysis & Mapping:** GeoPandas / Choropleth mapping by Local Authority Districts (LADs)
-* **Econometric Modeling:** Fixed-Effects Ordinary Least Squares (OLS) Panel Regression, Heteroscedasticity-Robust Standard Errors (HC3)
+* **Econometric Modelling:** Fixed-Effects Ordinary Least Squares (OLS) Panel Regression, Heteroscedasticity-Robust Standard Errors (HC3)
 * **Statistical Insights:** Summary statistics by decade, distribution box plots, and significance testing (p-values)
 
 ---
