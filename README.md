@@ -24,8 +24,8 @@ The study calculates a custom **Energy Efficiency Index (EEI)** and deploys mult
 
 ### 2. Macro-Economic Drivers (Panel Regression)
 * Built a fixed-effects model (R² > 0.90) mapping Log EEI against World Bank development metrics.
-* **Developed Subsample Findings:** Shifting away from heavy industry (\(-0.013^{**}\)) and expanding renewable energy shares (\(-0.022^{***}\)) act as the strongest empirical drivers for efficiency gains.
-* **Developing Subsample Findings:** Trade openness (\(0.003^{***}\)) stands out as the single significant determinant, indicating that clean technology transfers happen through global market integration.
+* **Developed Subsample Findings:** Shifting away from heavy industry ((**-0.013^**)) and expanding renewable energy shares ((**-0.022^**\)) act as the strongest empirical drivers for efficiency gains.
+* **Developing Subsample Findings:** Trade openness ((**0.003^**\)) stands out as the single significant determinant, indicating that clean technology transfers happen through global market integration.
 
 ### 3. Domestic EPC Analysis (Geospatial Mapping)
 * Processed and cross-compared regional EPC and Environmental Impact distributions across 314 local authorities.
